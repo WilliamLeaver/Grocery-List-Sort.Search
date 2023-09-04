@@ -1,5 +1,7 @@
 # Cplusplus-Program
 
+** TO RUN DOWNLOAD ZIP AND GO TO RELEASE AND RUN .EXE ** 
+
 Summarize the project and what problem it was solving.
 - This program takes in a list of items that have been sold by a company and returns how many of each item was purchased. It also includes a search and a basic histogram feature.
 
